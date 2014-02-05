@@ -43,3 +43,5 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+gem 'underscore-rails'
+gem 'gmaps4rails'
